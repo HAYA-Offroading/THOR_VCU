@@ -13,6 +13,6 @@ typedef struct{
 //---------------Function Declarations---------------
 void Uart_Init();
 void Uart_SendValue(uint8_t c);
-void Uart_SendValue_Dgus(DGUS_Parameters *a);
+// void Uart_SendValue_Dgus(DGUS_Parameters *a);
 
 #endif

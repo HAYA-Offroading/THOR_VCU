@@ -23,7 +23,6 @@ int main(){
    dgus_parameter.Uart_Speedometer = gauge_value;
     Display_Speedometer_Value(&dgus_parameter);
     delay_sw(10000000);
-
   }
 }
 

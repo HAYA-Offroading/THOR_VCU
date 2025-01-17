@@ -32,9 +32,9 @@ void Uart_SendValue(uint8_t c){
     while(!(USART2->SR & USART_SR_TC)); // wait until TC bit is set (transmission complete)
 }
 
-void Uart_SendValue_Dgus(DGUS_Parameters *a){
-    // Wait until TXE (Transmit Data Register Empty) is set
-    while (!(USART2->SR & USART_SR_TXE));
-    USART2->DR = a->temp ;  // Load data into DR
-    while(!(USART2->SR & USART_SR_TC)); // wait until TC bit is set (transmission complete)
-}
+// void Uart_SendValue_Dgus(DGUS_Parameters *a){
+//     // Wait until TXE (Transmit Data Register Empty) is set
+//     while (!(USART2->SR & USART_SR_TXE));
+//     USART2->DR = a->temp ;  // Load data into DR
+//     while(!(USART2->SR & USART_SR_TC)); // wait until TC bit is set (transmission complete)
+// }
