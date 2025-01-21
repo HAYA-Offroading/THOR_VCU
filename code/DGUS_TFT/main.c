@@ -14,6 +14,7 @@ int main(){
 
     dgus_parameter.Uart_Speedometer = gauge_value;
     Display_Speedometer_Value(&dgus_parameter);
+<<<<<<< HEAD
 
     dgus_parameter.Uart_Tachometer = tacho_value;
     Display_Speedometer_Value(&dgus_parameter);
@@ -28,6 +29,9 @@ int main(){
       tacho_value = 0;
     }
 
+=======
+    delay_sw(10000000);
+>>>>>>> b1a1ebfd1393fc5a48481fd7348929c62b95e219
   }
 }
 
