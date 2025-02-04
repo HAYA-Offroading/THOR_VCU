@@ -7,7 +7,7 @@
 
 Open the zephyrproject folder (the folder where the virtual environment is created) in VSCode.
 
-![Workspace Folder](C:\Files\Haya\Documentation\Zephyr\workspace_folder.png)
+![Workspace Folder](images/workspace_folder.png)
 
 ### 2. Creating a new Zephyr project (inside the west workspace)
 
@@ -18,7 +18,7 @@ Inside your new project folder, add a "src" folder. That is where your main.c wi
 Additionally, add "app.overlay" , "CMakeLists.txt" and "prj.conf" files to your project folder.
 These are necessary files that should be included in every Zephyr project you create. 
 
-![Project folder](C:\Files\Haya\Documentation\Zephyr\project_folder.png)
+![Project folder](images/project_folder.png)
 
 
 
