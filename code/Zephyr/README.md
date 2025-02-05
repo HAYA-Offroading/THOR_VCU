@@ -46,7 +46,4 @@ The .dts and .dtsi files are found in `zephyr/boards/<your_board_name>`, .overla
 ![DeviceTree](images/devicetree.png)
 
 DeviceTree sources contain all the peripherals of the board.
-
-
-
-
+gello
