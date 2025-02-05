@@ -1,0 +1,3 @@
+32.icl (background) = 35KB
+33.icl (speedometer) = 1462KB
+40.icl (tachometer) 283KB

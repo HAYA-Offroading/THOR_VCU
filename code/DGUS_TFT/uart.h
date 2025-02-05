@@ -6,6 +6,7 @@
 
 typedef struct{
     uint32_t Uart_Speedometer;
+    uint32_t Uart_Tachometer;
     uint32_t temp;
 }DGUS_Parameters;
 

@@ -1,0 +1,15 @@
+&spi1 {
+    status = "okay";
+    cs-gpios = <&gpioa 4 GPIO_ACTIVE_LOW>;
+
+    spidev: spi_device@0 {
+        compatible = "spi-device";
+        reg = <0>;  /* CS line 0 */
+        spi-max-frequency = <4000000>;  /* 4 MHz */
+        duplex = <0>;  /* Full duplex */
+        frame-format = <0>;  /* Motorola format */
+        spi-cpol;  /* Idle state HIGH */
+        spi-cpha;  /* Data sampled on second edge */
+        spi-hold-cs;  /* Hold CS for multiple transactions */
+    };
+};
