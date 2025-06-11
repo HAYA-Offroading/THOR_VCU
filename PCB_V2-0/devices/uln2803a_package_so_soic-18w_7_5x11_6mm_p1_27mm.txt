@@ -1,0 +1,43 @@
+PACKAGE 'soic-18w_7_5x11_6mm_p1_27mm'
+CLASS IC
+PINCOUNT 18
+PINORDER MAIN ,
+	I1__1,
+	I2__2,
+	I3__3,
+	I4__4,
+	I5__5,
+	I6__6,
+	I7__7,
+	I8__8,
+	GND__9,
+	COM__10,
+	O8__11,
+	O7__12,
+	O6__13,
+	O5__14,
+	O4__15,
+	O3__16,
+	O2__17,
+	O1__18
+FUNCTION MAIN MAIN ,
+	1,
+	2,
+	3,
+	4,
+	5,
+	6,
+	7,
+	8,
+	9,
+	10,
+	11,
+	12,
+	13,
+	14,
+	15,
+	16,
+	17,
+	18
+PACKAGEPROP VALUE ULN2803A
+END

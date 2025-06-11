@@ -1,0 +1,39 @@
+PACKAGE 'soic-16w_7_5x10_3mm_p1_27mm'
+CLASS IC
+PINCOUNT 16
+PINORDER MAIN ,
+	A0__1,
+	A1__2,
+	A2__3,
+	P0__4,
+	P1__5,
+	P2__6,
+	P3__7,
+	VSS__8,
+	P4__9,
+	P5__10,
+	P6__11,
+	P7__12,
+	??INT?__13,
+	SCL__14,
+	SDA__15,
+	VDD__16
+FUNCTION MAIN MAIN ,
+	1,
+	2,
+	3,
+	4,
+	5,
+	6,
+	7,
+	8,
+	9,
+	10,
+	11,
+	12,
+	13,
+	14,
+	15,
+	16
+PACKAGEPROP VALUE PCF8574
+END

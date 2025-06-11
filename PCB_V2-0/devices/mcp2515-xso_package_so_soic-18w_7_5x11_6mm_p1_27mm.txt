@@ -1,0 +1,43 @@
+PACKAGE 'soic-18w_7_5x11_6mm_p1_27mm'
+CLASS IC
+PINCOUNT 18
+PINORDER MAIN ,
+	TXCAN__1,
+	RXCAN__2,
+	CLKOUT/SOF__3,
+	??TX0RTS?__4,
+	??TX1RTS?__5,
+	??TX2RTS?__6,
+	OSC2__7,
+	OSC1__8,
+	VSS__9,
+	??RX1BF?__10,
+	??RX0BF?__11,
+	??INT?__12,
+	SCK__13,
+	SI__14,
+	SO__15,
+	??CS?__16,
+	??RESET?__17,
+	VDD__18
+FUNCTION MAIN MAIN ,
+	1,
+	2,
+	3,
+	4,
+	5,
+	6,
+	7,
+	8,
+	9,
+	10,
+	11,
+	12,
+	13,
+	14,
+	15,
+	16,
+	17,
+	18
+PACKAGEPROP VALUE 'MCP2515-xSO'
+END

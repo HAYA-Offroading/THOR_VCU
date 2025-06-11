@@ -1,0 +1,9 @@
+TopCopper:1
+BottomCopper:1
+TopSolderMask:1
+BottomSolderMask:1
+TopSilkScreen:1
+BottomSilkScreen:1
+BoardOutline:1
+DrillFile1:1
+DrillFile2:0

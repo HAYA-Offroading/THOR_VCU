@@ -1,0 +1,13 @@
+PACKAGE 'jst_xh_b3b-xh-a_1x03_p2_50mm_vertical'
+CLASS IC
+PINCOUNT 3
+PINORDER MAIN ,
+	1__1,
+	2__2,
+	3__3
+FUNCTION MAIN MAIN ,
+	1,
+	2,
+	3
+PACKAGEPROP VALUE 10k
+END

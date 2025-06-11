@@ -1,0 +1,620 @@
+(Source: /Users/tejaskaranji/Documents/THOR/CAR PCB/CAR PCB.kicad_sch)
+(Date: 2025-06-10T13:33:00+0530)
+!0_1uf_capacitor_smd_c_0603_1608metric_pad1_08x0_95mm_handsolder!'0.1uF';,
+	C203
+!0_resistor_smd_r_1206_3216metric_pad1_30x1_75mm_handsolder!0;,
+	R103,
+	R104
+!10k_connector_jst_jst_xh_b3b-xh-a_1x03_p2_50mm_vertical!10k;,
+	RV201
+!10k_resistor_smd_r_0603_1608metric_pad0_98x0_95mm_handsolder!10k;,
+	R602
+!10k_resistor_smd_r_1206_3216metric_pad1_30x1_75mm_handsolder!10k;,
+	R901
+!120_resistor_smd_r_0603_1608metric_pad0_98x0_95mm_handsolder!120;,
+	R601
+!1uf_capacitor_smd_c_0603_1608metric_pad1_08x0_95mm_handsolder!1uF;,
+	C202,
+	C401
+!220_resistor_smd_r_0805_2012metric_pad1_20x1_40mm_handsolder!220;,
+	R101,
+	R102
+!2_2uf_capacitor_smd_c_0603_1608metric_pad1_08x0_95mm_handsolder!'2.2uF';,
+	C201
+!30_capacitor_smd_c_0402_1005metric_pad0_74x0_62mm_handsolder!30;,
+	C601,
+	C602
+!470_resistor_smd_r_0805_2012metric_pad1_20x1_40mm_handsolder!470;,
+	R105,
+	R106
+!74ahct1g04dbvr_package_to_sot_smd_sot-23-5!74AHCT1G04DBVR;,
+	U202
+!_;,
+	U203
+!_1uf_capacitor_smd_c_0603_1608metric_pad1_08x0_95mm_handsolder!'.1uF';,
+	C204
+!__rf_sa868!'~';,
+	U201
+!antenna_shield_connector_coaxial_sma_amphenol_132134-11_vertical!Antenna_Shield;,
+	AE101
+!blackpill_part_like_swd_breakout_stm32_eval_boards_blackpill_stm32f401ccu6!BlackPill_Part_Like_SWD_Breakout;,
+	U301
+!conn_01x02_pin!Conn_01x02_Pin;,
+	J602
+!conn_01x04_connector_jst_jst_xh_b4b-xh-a_1x04_p2_50mm_vertical!Conn_01x04;,
+	J202
+!conn_01x04_socket_connector_jst_jst_xh_b4b-xh-a_1x04_p2_50mm_vertical!Conn_01x04_Socket;,
+	J501
+!conn_01x05_connector_jst_jst_xh_b5b-xh-a_1x05_p2_50mm_vertical!Conn_01x05;,
+	J201
+!conn_02x03_odd_even!Conn_02x03_Odd_Even;,
+	J601
+!conn_02x10_odd_even!Conn_02x10_Odd_Even;,
+	J301
+!crystal!Crystal;,
+	Y601
+!dc_dc_stepdown_lm2596_dc_dc_modules_dcdc_stepdown_lm2596!'DC DC_StepDown_LM2596';,
+	U101,
+	U102
+!jqc-3f-1c-12vdc_relay_tht_relay_jqc-3f-1c-24vdc!'JQC-3F-1C-12VDC';,
+	K701,
+	K702,
+	K704,
+	K705
+!led_led_smd_led_1206_3216metric_pad1_42x1_75mm_handsolder!LED;,
+	D101,
+	D102,
+	D104,
+	D105
+!lora_module_e32-433d_lora_modules_e32-433t33d!'LORA Module E32-433D';,
+	J401
+!mcp2515-xso_package_so_soic-18w_7_5x11_6mm_p1_27mm!'MCP2515-xSO';,
+	U601
+!pcf8574_package_so_soic-16w_7_5x10_3mm_p1_27mm!PCF8574;,
+	U103,
+	U104
+!screw_terminal_01x02!Screw_Terminal_01x02;,
+	J603
+!screw_terminal_01x02_terminalblock_phoenix_terminalblock_phoenix_mkds-3-2-5_08_1x02_p5_08mm_horizontal!Screw_Terminal_01x02;,
+	J101,
+	J102
+!screw_terminal_01x06_terminalblock_phoenix_terminalblock_phoenix_mkds-1_5-6_1x06_p5_00mm_horizontal!Screw_Terminal_01x06;,
+	J702
+!screw_terminal_01x08!Screw_Terminal_01x08;,
+	J103
+!screw_terminal_01x09_terminalblock_phoenix_terminalblock_phoenix_mkds-1_5-9_1x09_p5_00mm_horizontal!Screw_Terminal_01x09;,
+	J701
+!solderjumper_2_bridged!SolderJumper_2_Bridged;,
+	JP101,
+	JP102,
+	JP104,
+	JP105
+!solderjumper_2_open!SolderJumper_2_Open;,
+	JP106
+!solderjumper_2_open_resistor_smd_r_1206_3216metric_pad1_30x1_75mm_handsolder!SolderJumper_2_Open;,
+	JP201
+!tja1051t_package_so_soic-8_3_9x4_9mm_p1_27mm!TJA1051T;,
+	U602
+!uln2803a_package_so_soic-18w_7_5x11_6mm_p1_27mm!ULN2803A;,
+	U701
+$NETS
+'+12V';,
+	J101.1,
+	J102.1,
+	K701.COIL1,
+	K701.COM,
+	K702.COIL1,
+	K702.COM,
+	K703.COIL1,
+	K703.COM,
+	K704.COIL1,
+	K704.COM,
+	K705.COIL1,
+	K705.COM,
+	U101.1,
+	U102.1,
+	U701.10
+'+3.3V';,
+	JP106.1,
+	R101.1,
+	U101.4,
+	U103.16,
+	U104.16,
+	U301.20,
+	U301.38
+'+5V';,
+	C202.2,
+	C203.1,
+	C204.2,
+	C401.1,
+	J401.6,
+	J501.4,
+	R102.1,
+	R105.1,
+	R106.1,
+	R107.1,
+	R602.2,
+	R901.1,
+	U102.4,
+	U201.6,
+	U201.8,
+	U202.5,
+	U203.6,
+	U301.18,
+	U301.40,
+	U601.18,
+	U602.3
+/CAN_MODULE/CS;,
+	U301.30,
+	U601.16
+/CAN_MODULE/INT;,
+	U601.12
+/CAN_MODULE/MISO;,
+	U301.32,
+	U601.15
+/CAN_MODULE/MOSI;,
+	U301.33,
+	U601.14
+/CAN_MODULE/SCK;,
+	U301.31,
+	U601.13
+/DISPLAY/UART_RX;,
+	J501.3,
+	U301.6
+/DISPLAY/UART_TX;,
+	J501.2,
+	U301.7
+/LORA/AUX;,
+	J401.5
+/LORA/M0;,
+	J401.1,
+	U301.4
+/LORA/M1;,
+	J401.2,
+	U301.3
+/LORA/UART_RX;,
+	J401.3,
+	U301.8
+/LORA/UART_TX;,
+	J401.4,
+	U301.9
+/MICROCONTROLLER/UART2_RX;,
+	U201.17,
+	U301.29
+/MICROCONTROLLER/UART2_TX;,
+	U201.16,
+	U301.28
+'/RF VOICE/ANTENNA_LINE';,
+	AE101.1,
+	U201.12
+'/RF VOICE/HEADPHONE +';,
+	J201.1,
+	U203.1
+'/RF VOICE/HEADPHONE -';,
+	J201.2,
+	U203.2
+'/RF VOICE/MIC+';,
+	J201.4,
+	U201.18
+/RELAY/IN1;,
+	U103.4,
+	U701.1
+/RELAY/IN2;,
+	U103.5,
+	U701.2
+/RELAY/IN3;,
+	U103.6,
+	U701.3
+/RELAY/IN4;,
+	U103.7,
+	U701.4
+/RELAY/IN5;,
+	U103.9,
+	U701.5
+/RELAY/IN6;,
+	U701.6
+/RELAY/IN7;,
+	U701.7
+/RELAY/IN8;,
+	U701.8
+GNDA;,
+	AE101.2,
+	C202.1,
+	C203.2,
+	C204.1,
+	J201.3,
+	J201.5,
+	J202.3,
+	J202.4,
+	R103.2,
+	R104.2,
+	RV201.1,
+	U201.9,
+	U201.10,
+	U202.3,
+	U203.5,
+	U203.8
+GNDD;,
+	C401.2,
+	C601.1,
+	C602.1,
+	D101.1,
+	D102.1,
+	J101.2,
+	J102.2,
+	J401.7,
+	J501.1,
+	J701.3,
+	J701.6,
+	J701.9,
+	J702.3,
+	J702.6,
+	JP101.1,
+	JP102.1,
+	JP103.1,
+	JP104.1,
+	JP105.1,
+	R103.1,
+	R104.1,
+	U101.2,
+	U101.3,
+	U102.2,
+	U102.3,
+	U103.8,
+	U104.8,
+	U301.19,
+	U301.39,
+	U601.9,
+	U602.2,
+	U602.8,
+	U701.9
+I2C_SCL_1;,
+	U103.14,
+	U104.14,
+	U301.14
+I2C_SDA_1;,
+	U103.15,
+	U104.15,
+	U301.15
+'NET-(D101-A)';,
+	D101.2,
+	R101.2
+'NET-(D102-A)';,
+	D102.2,
+	R102.2
+'NET-(D103-A)';,
+	D103.2,
+	R105.2
+'NET-(D103-K)';,
+	D103.1,
+	U103.10
+'NET-(D104-A)';,
+	D104.2,
+	R106.2
+'NET-(D104-K)';,
+	D104.1,
+	U103.11
+'NET-(D105-A)';,
+	D105.2,
+	R107.2
+'NET-(D105-K)';,
+	D105.1,
+	U103.12
+'NET-(J103-PIN_1)';,
+	J103.1,
+	U104.4
+'NET-(J103-PIN_2)';,
+	J103.2,
+	U104.5
+'NET-(J103-PIN_3)';,
+	J103.3,
+	U104.6
+'NET-(J103-PIN_4)';,
+	J103.4,
+	U104.7
+'NET-(J103-PIN_5)';,
+	J103.5,
+	U104.9
+'NET-(J103-PIN_6)';,
+	J103.6,
+	U104.10
+'NET-(J103-PIN_7)';,
+	J103.7,
+	U104.11
+'NET-(J103-PIN_8)';,
+	J103.8,
+	U104.12
+'NET-(J202-PIN_1)';,
+	J202.1,
+	U201.7
+'NET-(J202-PIN_2)';,
+	J202.2,
+	R901.2,
+	U201.5
+'NET-(J601-PIN_1)';,
+	J601.1,
+	U601.11
+'NET-(J601-PIN_2)';,
+	J601.2,
+	U601.10
+'NET-(J601-PIN_3)';,
+	J601.3,
+	U601.4
+'NET-(J601-PIN_4)';,
+	J601.4,
+	U601.5
+'NET-(J601-PIN_5)';,
+	J601.5,
+	U601.6
+'NET-(J602-PIN_1)';,
+	J602.1,
+	J603.2,
+	U602.6
+'NET-(J602-PIN_2)';,
+	J602.2,
+	R601.1
+'NET-(J603-PIN_1)';,
+	J603.1,
+	R601.2,
+	U602.7
+'NET-(J701-PIN_1)';,
+	J701.1,
+	K701.NO
+'NET-(J701-PIN_2)';,
+	J701.2,
+	K701.NC
+'NET-(J701-PIN_4)';,
+	J701.4,
+	K702.NO
+'NET-(J701-PIN_5)';,
+	J701.5,
+	K702.NC
+'NET-(J701-PIN_7)';,
+	J701.7,
+	K703.NO
+'NET-(J701-PIN_8)';,
+	J701.8,
+	K703.NC
+'NET-(J702-PIN_1)';,
+	J702.1,
+	K704.NC
+'NET-(J702-PIN_2)';,
+	J702.2,
+	K704.NO
+'NET-(J702-PIN_4)';,
+	J702.4,
+	K705.NC
+'NET-(J702-PIN_5)';,
+	J702.5,
+	K705.NO
+'NET-(JP101-B)';,
+	JP101.2,
+	U103.1
+'NET-(JP102-B)';,
+	JP102.2,
+	U103.2
+'NET-(JP103-B)';,
+	JP103.2,
+	U103.3
+'NET-(JP104-B)';,
+	JP104.2,
+	U104.1
+'NET-(JP105-B)';,
+	JP105.2,
+	U104.2
+'NET-(JP106-B)';,
+	JP106.2,
+	U104.3
+'NET-(JP201-A)';,
+	JP201.1,
+	RV201.3,
+	U201.3
+'NET-(JP201-B)';,
+	C201.1,
+	JP201.2,
+	RV201.2
+'NET-(U201-AUDIO_ON)';,
+	U201.1,
+	U202.2
+'NET-(U202-Y)';,
+	U202.4,
+	U203.7
+'NET-(U203-RIN)';,
+	C201.2,
+	U203.11
+'NET-(U601-OSC1)';,
+	C602.2,
+	U601.8,
+	Y601.1
+'NET-(U601-OSC2)';,
+	C601.2,
+	U601.7,
+	Y601.2
+'NET-(U601-RXCAN)';,
+	U601.2,
+	U602.4
+'NET-(U601-TXCAN)';,
+	U601.1,
+	U602.1
+'NET-(U601-~{RESET})';,
+	R602.1,
+	U601.17
+'NET-(U701-O1)';,
+	K701.COIL2,
+	U701.18
+'NET-(U701-O2)';,
+	K702.COIL2,
+	U701.17
+'NET-(U701-O3)';,
+	K703.COIL2,
+	U701.16
+'NET-(U701-O4)';,
+	K704.COIL2,
+	U701.15
+'NET-(U701-O5)';,
+	K705.COIL2,
+	U701.14
+PA0;,
+	J301.10,
+	U301.26
+PA1;,
+	J301.8,
+	U301.27
+PA15;,
+	J301.7,
+	U301.10
+PA8;,
+	J301.5,
+	U301.5
+PB0;,
+	J301.6,
+	U301.34
+PB1;,
+	J301.4,
+	U301.35
+PB10;,
+	J301.19,
+	U301.37
+PB12;,
+	J301.1,
+	U301.1
+PB13;,
+	J301.3,
+	U301.2
+PB2;,
+	J301.2,
+	U301.36
+PB3;,
+	J301.9,
+	U301.11
+PB4;,
+	J301.11,
+	U301.12
+PB5;,
+	J301.13,
+	U301.13
+PB8;,
+	J301.15,
+	U301.16
+PB9;,
+	J301.17,
+	U301.17
+PC13;,
+	J301.18,
+	U301.22
+PC14;,
+	J301.16,
+	U301.23
+PC15;,
+	J301.14,
+	U301.24
+RST;,
+	J301.12,
+	U301.25
+VBAT;,
+	J301.20,
+	U301.21
+'UNCONNECTED-(J601-PIN_6-PAD6)';,
+	J601.6
+'UNCONNECTED-(U103-~{INT}-PAD13)';,
+	U103.13
+'UNCONNECTED-(U104-~{INT}-PAD13)';,
+	U104.13
+'UNCONNECTED-(U201-NC-PAD11)';,
+	U201.11
+'UNCONNECTED-(U201-NC-PAD13)';,
+	U201.13
+'UNCONNECTED-(U201-NC-PAD14)';,
+	U201.14
+'UNCONNECTED-(U201-NC-PAD15)';,
+	U201.15
+'UNCONNECTED-(U201-NC-PAD2)';,
+	U201.2
+'UNCONNECTED-(U201-NC-PAD4)';,
+	U201.4
+'UNCONNECTED-(U203-L+-PAD4)';,
+	U203.4
+'UNCONNECTED-(U203-L--PAD3)';,
+	U203.3
+'UNCONNECTED-(U203-LIN-PAD9)';,
+	U203.9
+'UNCONNECTED-(U601-CLKOUT{SLASH}SOF-PAD3)';,
+	U601.3
+'UNCONNECTED-(U602-NC-PAD5)';,
+	U602.5
+'UNCONNECTED-(U701-O6-PAD13)';,
+	U701.13
+'UNCONNECTED-(U701-O7-PAD12)';,
+	U701.12
+'UNCONNECTED-(U701-O8-PAD11)';,
+	U701.11
+$PACKAGES
+$A_PROPERTIES
+ROOM /;,
+	AE101,
+	D101,
+	D102,
+	D103,
+	D104,
+	D105,
+	J101,
+	J102,
+	J103,
+	JP101,
+	JP102,
+	JP103,
+	JP104,
+	JP105,
+	JP106,
+	R101,
+	R102,
+	R103,
+	R104,
+	R105,
+	R106,
+	R107,
+	U101,
+	U102,
+	U103,
+	U104
+ROOM /CAN_Module/;,
+	C601,
+	C602,
+	J601,
+	J602,
+	J603,
+	R601,
+	R602,
+	U601,
+	U602,
+	Y601
+ROOM /Display/;,
+	J501
+ROOM /LORA/;,
+	C401,
+	J401
+ROOM /Microcontroller/;,
+	J301,
+	U301
+ROOM '/RF Voice/';,
+	C201,
+	C202,
+	C203,
+	C204,
+	J201,
+	J202,
+	JP201,
+	R901,
+	RV201,
+	U201,
+	U202,
+	U203
+ROOM /Relay/;,
+	J701,
+	J702,
+	K701,
+	K702,
+	K703,
+	K704,
+	K705,
+	U701

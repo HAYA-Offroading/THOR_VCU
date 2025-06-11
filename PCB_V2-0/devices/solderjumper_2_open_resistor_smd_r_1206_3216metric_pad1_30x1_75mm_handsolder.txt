@@ -1,0 +1,11 @@
+PACKAGE 'r_1206_3216metric_pad1_30x1_75mm_handsolder'
+CLASS IC
+PINCOUNT 2
+PINORDER MAIN ,
+	A__1,
+	B__2
+FUNCTION MAIN MAIN ,
+	1,
+	2
+PACKAGEPROP VALUE SolderJumper_2_Open
+END

@@ -1,0 +1,11 @@
+PACKAGE 'sma_amphenol_132134-11_vertical'
+CLASS IC
+PINCOUNT 2
+PINORDER MAIN ,
+	A__1,
+	Shield__2
+FUNCTION MAIN MAIN ,
+	1,
+	2
+PACKAGEPROP VALUE Antenna_Shield
+END

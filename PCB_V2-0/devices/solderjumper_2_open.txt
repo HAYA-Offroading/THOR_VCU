@@ -1,0 +1,11 @@
+PACKAGE 'solderjumper_2_open'
+CLASS IC
+PINCOUNT 2
+PINORDER MAIN ,
+	A__1,
+	B__2
+FUNCTION MAIN MAIN ,
+	1,
+	2
+PACKAGEPROP VALUE SolderJumper_2_Open
+END

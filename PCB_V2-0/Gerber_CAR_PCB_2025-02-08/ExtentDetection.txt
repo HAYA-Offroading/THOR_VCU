@@ -1,0 +1,4 @@
+top_copper_extent_overlap=False
+bottom_copper_extent_overlap=False
+top_silk_extent_overlap=False
+bottom_silk_extent_overlap=False
