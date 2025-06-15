@@ -1,0 +1,484 @@
+Change Component Comment : Designator=R108 Old Comment=1k New Comment=10k
+Change component parameters: Designator = "R108" ("R108"); Footprint = "R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"; UniqueID = "\GGEXOEIC" ("\GGEXOEIC")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R109" ("R109"); Footprint = "R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"; UniqueID = "\JPQMFSSS" ("\JPQMFSSS")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R110" ("R110"); Footprint = "R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"; UniqueID = "\UDIUNELY" ("\UDIUNELY")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R111" ("R111"); Footprint = "R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"; UniqueID = "\UZXHUKUZ" ("\UZXHUKUZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R112" ("R112"); Footprint = "R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"; UniqueID = "\GQNMEUCT" ("\GQNMEUCT")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R113" ("R113"); Footprint = "R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"; UniqueID = "\NEEJBNZG" ("\NEEJBNZG")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component: Footprint Not Found 
+Add component: Footprint Not Found SMA_Amphenol_132134-11_Vertical
+Add component: Footprint Not Found LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Add component: Footprint Not Found LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Add component: Footprint Not Found LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Add component: Footprint Not Found LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Add component: Footprint Not Found LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Add component: Footprint Not Found CONN_1924389_PXC
+Add component: Footprint Not Found CON20_2X10_SHM_TEC
+Add component: Footprint Not Found TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal
+Add component: Footprint Not Found TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal
+Add component: Footprint Not Found CONN8_796867-8_TEC
+Add component: Footprint Not Found JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical
+Add component: Footprint Not Found JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical
+Add component: Footprint Not Found E32-433T33D
+Add component: Footprint Not Found JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical
+Added Component: Designator=J602(PinHeader_1x02_P2.54mm_Vertical)
+Add component (AddParameter): Name = "Value"; Value = "Conn_01x02_Pin"; VariantName = "[No Variations]"
+Added Component: Designator=J603(TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal)
+Add component (AddParameter): Name = "Value"; Value = "Screw_Terminal_01x02"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(R_0603_1608Metric_Pad0.98x0.95mm_HandSolder)
+Add component (AddParameter): Name = "Value"; Value = "SolderJumper_2_Bridged"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(R_0603_1608Metric_Pad0.98x0.95mm_HandSolder)
+Add component (AddParameter): Name = "Value"; Value = "SolderJumper_2_Bridged"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(R_0603_1608Metric_Pad0.98x0.95mm_HandSolder)
+Add component (AddParameter): Name = "Value"; Value = "SolderJumper_2_Bridged"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(R_0603_1608Metric_Pad0.98x0.95mm_HandSolder)
+Add component (AddParameter): Name = "Value"; Value = "SolderJumper_2_Bridged"; VariantName = "[No Variations]"
+Added Component: Designator=JP101(R_0603_1608Metric_Pad0.98x0.95mm_HandSolder)
+Add component (AddParameter): Name = "Value"; Value = "SolderJumper_2_Bridged"; VariantName = "[No Variations]"
+Added Component: Designator=JP106(R_0603_1608Metric_Pad0.98x0.95mm_HandSolder)
+Add component (AddParameter): Name = "Value"; Value = "SolderJumper_2_Open"; VariantName = "[No Variations]"
+Add component: Footprint Not Found LED_QTLP600C_EVE
+Add component: Footprint Not Found LED_QTLP600C_EVE
+Add component: Footprint Not Found LED_QTLP600C_EVE
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found RES_CRGCQ0402F100K_TEC
+Add component: Footprint Not Found RES_CRGCQ0402F100K_TEC
+Add component: Footprint Not Found RES_CRGCQ0402F100K_TEC
+Add component: Footprint Not Found JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical
+Add component: Footprint Not Found DW18
+Add component: Footprint Not Found DCDC_StepDown_LM2596
+Add component: Footprint Not Found DCDC_StepDown_LM2596
+Added Component: Designator=U103(FP-SOT162-1-MFG)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.nxp.com/docs/en/data-sheet/PCF8574_PCF8574A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Interface ICs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "I/O Expanders"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "IC I/O EXPANDER I2C 8B 16SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Url"; Value = "https://www.nxp.com/docs/en/package-information/SOT162-1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "SOIC127P1032X265-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PCF8574T/3,518"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temp"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "PCF8574 Series 2.5 - 6V Remote 8-bit I/O Expander for I2C-bus - SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "40uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of I/Os"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/pcf8574t%2F3%2C518-nxp+semiconductors-10470852"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT162-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standoff Height"; Value = "0.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Added Component: Designator=U104(FP-SOT162-1-MFG)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.nxp.com/docs/en/data-sheet/PCF8574_PCF8574A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Interface ICs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "I/O Expanders"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "IC I/O EXPANDER I2C 8B 16SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Url"; Value = "https://www.nxp.com/docs/en/package-information/SOT162-1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "SOIC127P1032X265-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PCF8574T/3,518"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temp"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "PCF8574 Series 2.5 - 6V Remote 8-bit I/O Expander for I2C-bus - SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "40uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of I/Os"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/pcf8574t%2F3%2C518-nxp+semiconductors-10470852"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT162-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standoff Height"; Value = "0.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component: Footprint Not Found SA868
+Add component: Footprint Not Found SOT-23-5
+Add component: Footprint Not Found Blackpill STM32F401CCU6
+Add component: Footprint Not Found SOIC-18W_7.5x11.6mm_P1.27mm
+Add component: Footprint Not Found SOIC-8_3.9x4.9mm_P1.27mm
+Added Component: Designator=Y601(H32_RAM)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Rami Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-2
+Add Pin To Net: Unknown Pin: Pin *-3
+Add Pin To Net: Unknown Pin: Pin *-4
+Add Pin To Net: Unknown Pin: Pin *-5
+Add Pin To Net: Unknown Pin: Pin AE101-1
+Add Pin To Net: Unknown Pin: Pin AE101-2
+Add Pin To Net: Unknown Pin: Pin D101-1
+Add Pin To Net: Unknown Pin: Pin D101-2
+Add Pin To Net: Unknown Pin: Pin D102-1
+Add Pin To Net: Unknown Pin: Pin D102-2
+Add Pin To Net: Unknown Pin: Pin D103-1
+Add Pin To Net: Unknown Pin: Pin D103-2
+Add Pin To Net: Unknown Pin: Pin D104-1
+Add Pin To Net: Unknown Pin: Pin D104-2
+Add Pin To Net: Unknown Pin: Pin D105-1
+Add Pin To Net: Unknown Pin: Pin D105-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin J1-9
+Add Pin To Net: Unknown Pin: Pin J1-10
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin J2-9
+Add Pin To Net: Unknown Pin: Pin J2-10
+Add Pin To Net: Unknown Pin: Pin J2-11
+Add Pin To Net: Unknown Pin: Pin J2-12
+Add Pin To Net: Unknown Pin: Pin J2-13
+Add Pin To Net: Unknown Pin: Pin J2-14
+Add Pin To Net: Unknown Pin: Pin J2-15
+Add Pin To Net: Unknown Pin: Pin J2-16
+Add Pin To Net: Unknown Pin: Pin J2-17
+Add Pin To Net: Unknown Pin: Pin J2-18
+Add Pin To Net: Unknown Pin: Pin J2-19
+Add Pin To Net: Unknown Pin: Pin J2-20
+Add Pin To Net: Unknown Pin: Pin J2-21
+Add Pin To Net: Unknown Pin: Pin J2-22
+Add Pin To Net: Unknown Pin: Pin J101-1
+Add Pin To Net: Unknown Pin: Pin J101-2
+Add Pin To Net: Unknown Pin: Pin J102-1
+Add Pin To Net: Unknown Pin: Pin J102-2
+Add Pin To Net: Unknown Pin: Pin J103-1
+Add Pin To Net: Unknown Pin: Pin J103-2
+Add Pin To Net: Unknown Pin: Pin J103-3
+Add Pin To Net: Unknown Pin: Pin J103-4
+Add Pin To Net: Unknown Pin: Pin J103-5
+Add Pin To Net: Unknown Pin: Pin J103-6
+Add Pin To Net: Unknown Pin: Pin J103-7
+Add Pin To Net: Unknown Pin: Pin J103-8
+Add Pin To Net: Unknown Pin: Pin J201-1
+Add Pin To Net: Unknown Pin: Pin J201-2
+Add Pin To Net: Unknown Pin: Pin J201-3
+Add Pin To Net: Unknown Pin: Pin J201-4
+Add Pin To Net: Unknown Pin: Pin J201-5
+Add Pin To Net: Unknown Pin: Pin J202-1
+Add Pin To Net: Unknown Pin: Pin J202-2
+Add Pin To Net: Unknown Pin: Pin J202-3
+Add Pin To Net: Unknown Pin: Pin J202-4
+Add Pin To Net: Unknown Pin: Pin J401-1
+Add Pin To Net: Unknown Pin: Pin J401-2
+Add Pin To Net: Unknown Pin: Pin J401-3
+Add Pin To Net: Unknown Pin: Pin J401-4
+Add Pin To Net: Unknown Pin: Pin J401-5
+Add Pin To Net: Unknown Pin: Pin J401-6
+Add Pin To Net: Unknown Pin: Pin J401-7
+Add Pin To Net: Unknown Pin: Pin J501-1
+Add Pin To Net: Unknown Pin: Pin J501-2
+Add Pin To Net: Unknown Pin: Pin J501-3
+Add Pin To Net: Unknown Pin: Pin J501-4
+Added Pin To Net: NetName=NetJ602_1 Pin=J602-1
+Added Pin To Net: NetName=NetJ602_2 Pin=J602-2
+Added Pin To Net: NetName=NetJ603_1 Pin=J603-1
+Added Pin To Net: NetName=NetJ602_1 Pin=J603-2
+Added Pin To Net: NetName=GNDD Pin=JP1-1
+Added Pin To Net: NetName=GNDD Pin=JP2-1
+Added Pin To Net: NetName=GNDD Pin=JP3-1
+Added Pin To Net: NetName=GNDD Pin=JP4-1
+Added Pin To Net: NetName=GNDD Pin=JP101-1
+Added Pin To Net: NetName=NetJP101_2 Pin=JP101-2
+Added Pin To Net: NetName=GNDD Pin=JP106-1
+Added Pin To Net: NetName=NetJP106_2 Pin=JP106-2
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin LED2-1
+Add Pin To Net: Unknown Pin: Pin LED2-2
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED3-2
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Pin To Net: Unknown Pin: Pin Q4-1
+Add Pin To Net: Unknown Pin: Pin Q4-2
+Add Pin To Net: Unknown Pin: Pin Q4-3
+Add Pin To Net: Unknown Pin: Pin Q5-1
+Add Pin To Net: Unknown Pin: Pin Q5-2
+Add Pin To Net: Unknown Pin: Pin Q5-3
+Add Pin To Net: Unknown Pin: Pin Q6-1
+Add Pin To Net: Unknown Pin: Pin Q6-2
+Add Pin To Net: Unknown Pin: Pin Q6-3
+Add Pin To Net: Unknown Pin: Pin Q7-1
+Add Pin To Net: Unknown Pin: Pin Q7-2
+Add Pin To Net: Unknown Pin: Pin Q7-3
+Add Pin To Net: Unknown Pin: Pin Q8-1
+Add Pin To Net: Unknown Pin: Pin Q8-2
+Add Pin To Net: Unknown Pin: Pin Q8-3
+Add Pin To Net: Unknown Pin: Pin Q9-1
+Add Pin To Net: Unknown Pin: Pin Q9-2
+Add Pin To Net: Unknown Pin: Pin Q9-3
+Add Pin To Net: Unknown Pin: Pin Q10-1
+Add Pin To Net: Unknown Pin: Pin Q10-2
+Add Pin To Net: Unknown Pin: Pin Q10-3
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin RV201-1
+Add Pin To Net: Unknown Pin: Pin RV201-2
+Add Pin To Net: Unknown Pin: Pin RV201-3
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-18
+Add Pin To Net: Unknown Pin: Pin U101-1
+Add Pin To Net: Unknown Pin: Pin U101-2
+Add Pin To Net: Unknown Pin: Pin U101-3
+Add Pin To Net: Unknown Pin: Pin U101-4
+Add Pin To Net: Unknown Pin: Pin U102-1
+Add Pin To Net: Unknown Pin: Pin U102-2
+Add Pin To Net: Unknown Pin: Pin U102-3
+Add Pin To Net: Unknown Pin: Pin U102-4
+Added Pin To Net: NetName=NetJP101_2 Pin=U103-1
+Added Pin To Net: NetName=IN1 Pin=U103-4
+Added Pin To Net: NetName=IN2 Pin=U103-5
+Added Pin To Net: NetName=IN3 Pin=U103-6
+Added Pin To Net: NetName=IN4 Pin=U103-7
+Added Pin To Net: NetName=GNDD Pin=U103-8
+Added Pin To Net: NetName=IN5 Pin=U103-9
+Added Pin To Net: NetName=NetD103_1 Pin=U103-10
+Added Pin To Net: NetName=NetD104_1 Pin=U103-11
+Added Pin To Net: NetName=NetD105_1 Pin=U103-12
+Added Pin To Net: NetName=I2C_SDA_1 Pin=U103-14
+Added Pin To Net: NetName=I2C_SCL_1 Pin=U103-15
+Added Pin To Net: NetName=+3.3V Pin=U103-16
+Added Pin To Net: NetName=NetJP106_2 Pin=U104-3
+Added Pin To Net: NetName=NetJ103_1 Pin=U104-4
+Added Pin To Net: NetName=NetJ103_2 Pin=U104-5
+Added Pin To Net: NetName=NetJ103_3 Pin=U104-6
+Added Pin To Net: NetName=NetJ103_4 Pin=U104-7
+Added Pin To Net: NetName=GNDD Pin=U104-8
+Added Pin To Net: NetName=NetJ103_5 Pin=U104-9
+Added Pin To Net: NetName=NetJ103_6 Pin=U104-10
+Added Pin To Net: NetName=NetJ103_7 Pin=U104-11
+Added Pin To Net: NetName=NetJ103_8 Pin=U104-12
+Added Pin To Net: NetName=I2C_SDA_1 Pin=U104-14
+Added Pin To Net: NetName=I2C_SCL_1 Pin=U104-15
+Added Pin To Net: NetName=+3.3V Pin=U104-16
+Add Pin To Net: Unknown Pin: Pin U201-1
+Add Pin To Net: Unknown Pin: Pin U201-3
+Add Pin To Net: Unknown Pin: Pin U201-5
+Add Pin To Net: Unknown Pin: Pin U201-6
+Add Pin To Net: Unknown Pin: Pin U201-7
+Add Pin To Net: Unknown Pin: Pin U201-8
+Add Pin To Net: Unknown Pin: Pin U201-9
+Add Pin To Net: Unknown Pin: Pin U201-10
+Add Pin To Net: Unknown Pin: Pin U201-12
+Add Pin To Net: Unknown Pin: Pin U201-16
+Add Pin To Net: Unknown Pin: Pin U201-17
+Add Pin To Net: Unknown Pin: Pin U201-18
+Add Pin To Net: Unknown Pin: Pin U202-2
+Add Pin To Net: Unknown Pin: Pin U202-3
+Add Pin To Net: Unknown Pin: Pin U202-4
+Add Pin To Net: Unknown Pin: Pin U202-5
+Add Pin To Net: Unknown Pin: Pin U203-1
+Add Pin To Net: Unknown Pin: Pin U203-2
+Add Pin To Net: Unknown Pin: Pin U203-5
+Add Pin To Net: Unknown Pin: Pin U203-6
+Add Pin To Net: Unknown Pin: Pin U203-7
+Add Pin To Net: Unknown Pin: Pin U203-8
+Add Pin To Net: Unknown Pin: Pin U203-11
+Add Pin To Net: Unknown Pin: Pin U301-1
+Add Pin To Net: Unknown Pin: Pin U301-2
+Add Pin To Net: Unknown Pin: Pin U301-3
+Add Pin To Net: Unknown Pin: Pin U301-4
+Add Pin To Net: Unknown Pin: Pin U301-5
+Add Pin To Net: Unknown Pin: Pin U301-6
+Add Pin To Net: Unknown Pin: Pin U301-7
+Add Pin To Net: Unknown Pin: Pin U301-8
+Add Pin To Net: Unknown Pin: Pin U301-9
+Add Pin To Net: Unknown Pin: Pin U301-10
+Add Pin To Net: Unknown Pin: Pin U301-11
+Add Pin To Net: Unknown Pin: Pin U301-12
+Add Pin To Net: Unknown Pin: Pin U301-13
+Add Pin To Net: Unknown Pin: Pin U301-14
+Add Pin To Net: Unknown Pin: Pin U301-15
+Add Pin To Net: Unknown Pin: Pin U301-16
+Add Pin To Net: Unknown Pin: Pin U301-17
+Add Pin To Net: Unknown Pin: Pin U301-18
+Add Pin To Net: Unknown Pin: Pin U301-19
+Add Pin To Net: Unknown Pin: Pin U301-20
+Add Pin To Net: Unknown Pin: Pin U301-22
+Add Pin To Net: Unknown Pin: Pin U301-23
+Add Pin To Net: Unknown Pin: Pin U301-24
+Add Pin To Net: Unknown Pin: Pin U301-25
+Add Pin To Net: Unknown Pin: Pin U301-26
+Add Pin To Net: Unknown Pin: Pin U301-27
+Add Pin To Net: Unknown Pin: Pin U301-28
+Add Pin To Net: Unknown Pin: Pin U301-29
+Add Pin To Net: Unknown Pin: Pin U301-30
+Add Pin To Net: Unknown Pin: Pin U301-31
+Add Pin To Net: Unknown Pin: Pin U301-32
+Add Pin To Net: Unknown Pin: Pin U301-33
+Add Pin To Net: Unknown Pin: Pin U301-34
+Add Pin To Net: Unknown Pin: Pin U301-35
+Add Pin To Net: Unknown Pin: Pin U301-36
+Add Pin To Net: Unknown Pin: Pin U301-37
+Add Pin To Net: Unknown Pin: Pin U301-38
+Add Pin To Net: Unknown Pin: Pin U301-39
+Add Pin To Net: Unknown Pin: Pin U301-40
+Add Pin To Net: Unknown Pin: Pin U601-1
+Add Pin To Net: Unknown Pin: Pin U601-2
+Add Pin To Net: Unknown Pin: Pin U601-4
+Add Pin To Net: Unknown Pin: Pin U601-5
+Add Pin To Net: Unknown Pin: Pin U601-6
+Add Pin To Net: Unknown Pin: Pin U601-7
+Add Pin To Net: Unknown Pin: Pin U601-8
+Add Pin To Net: Unknown Pin: Pin U601-9
+Add Pin To Net: Unknown Pin: Pin U601-10
+Add Pin To Net: Unknown Pin: Pin U601-11
+Add Pin To Net: Unknown Pin: Pin U601-12
+Add Pin To Net: Unknown Pin: Pin U601-13
+Add Pin To Net: Unknown Pin: Pin U601-14
+Add Pin To Net: Unknown Pin: Pin U601-15
+Add Pin To Net: Unknown Pin: Pin U601-16
+Add Pin To Net: Unknown Pin: Pin U601-17
+Add Pin To Net: Unknown Pin: Pin U601-18
+Add Pin To Net: Unknown Pin: Pin U602-1
+Add Pin To Net: Unknown Pin: Pin U602-2
+Add Pin To Net: Unknown Pin: Pin U602-3
+Add Pin To Net: Unknown Pin: Pin U602-4
+Add Pin To Net: Unknown Pin: Pin U602-6
+Add Pin To Net: Unknown Pin: Pin U602-7
+Add Pin To Net: Unknown Pin: Pin U602-8
+Added Pin To Net: NetName=NetC601_2 Pin=Y601-1
+Added Pin To Net: NetName=NetC602_2 Pin=Y601-2
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=R110-2
+Added Pin To Net: NetName=NetJP1_2 Pin=U104-1
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP2_2 Pin=R109-2
+Added Pin To Net: NetName=NetJP2_2 Pin=U104-2
+Added Net: Name=NetJP2_2
+Added Pin To Net: NetName=NetJP3_2 Pin=JP3-2
+Added Pin To Net: NetName=NetJP3_2 Pin=R112-2
+Added Pin To Net: NetName=NetJP3_2 Pin=U103-2
+Added Net: Name=NetJP3_2
+Added Pin To Net: NetName=NetJP4_2 Pin=JP4-2
+Added Pin To Net: NetName=NetJP4_2 Pin=R111-2
+Added Pin To Net: NetName=NetJP4_2 Pin=U103-3
+Added Net: Name=NetJP4_2
+Add Class Member: Failed to add class member : Component * Conn_02x03_Odd_Even
+Add Class Member: Failed to add class member : Component AE101 Antenna_Shield
+Add Class Member: Failed to add class member : Component D101 LED
+Add Class Member: Failed to add class member : Component D102 LED
+Add Class Member: Failed to add class member : Component D103 LED
+Add Class Member: Failed to add class member : Component D104 LED
+Add Class Member: Failed to add class member : Component D105 LED
+Add Class Member: Failed to add class member : Component J1 CONN_1924389
+Add Class Member: Failed to add class member : Component J2 5499922-4
+Add Class Member: Failed to add class member : Component J101 Screw_Terminal_01x02
+Add Class Member: Failed to add class member : Component J102 Screw_Terminal_01x02
+Add Class Member: Failed to add class member : Component J103 XY2500 RDS
+Add Class Member: Failed to add class member : Component J201 Conn_01x05
+Add Class Member: Failed to add class member : Component J202 Conn_01x04
+Add Class Member: Failed to add class member : Component J401 LORA Module E32-433D
+Add Class Member: Failed to add class member : Component J501 Conn_01x04_Socket
+Added Member To Class: ClassName=CAN_Module Member=Component J602 Conn_01x02_Pin
+Added Member To Class: ClassName=CAN_Module Member=Component J603 Screw_Terminal_01x02
+Added Member To Class: ClassName=CAR PCB Member=Component JP1 SolderJumper_2_Bridged
+Added Member To Class: ClassName=CAR PCB Member=Component JP2 SolderJumper_2_Bridged
+Added Member To Class: ClassName=CAR PCB Member=Component JP3 SolderJumper_2_Bridged
+Added Member To Class: ClassName=CAR PCB Member=Component JP4 SolderJumper_2_Bridged
+Added Member To Class: ClassName=CAR PCB Member=Component JP101 SolderJumper_2_Bridged
+Added Member To Class: ClassName=CAR PCB Member=Component JP106 SolderJumper_2_Open
+Add Class Member: Failed to add class member : Component LED1 LED
+Add Class Member: Failed to add class member : Component LED2 LED
+Add Class Member: Failed to add class member : Component LED3 LED
+Add Class Member: Failed to add class member : Component Q1 SI2309DS
+Add Class Member: Failed to add class member : Component Q2 SI2309DS
+Add Class Member: Failed to add class member : Component Q3 SI2309DS
+Add Class Member: Failed to add class member : Component Q4 SI2309DS
+Add Class Member: Failed to add class member : Component Q5 SI2309DS
+Add Class Member: Failed to add class member : Component Q6 SI2309DS
+Add Class Member: Failed to add class member : Component Q7 SI2309DS
+Add Class Member: Failed to add class member : Component Q8 SI2309DS
+Add Class Member: Failed to add class member : Component Q9 SI2309DS
+Add Class Member: Failed to add class member : Component Q10 SI2309DS
+Add Class Member: Failed to add class member : Component R5 470
+Add Class Member: Failed to add class member : Component R6 470
+Add Class Member: Failed to add class member : Component R7 470
+Add Class Member: Failed to add class member : Component RV201 10k
+Add Class Member: Failed to add class member : Component U1 ULN2803A_DW_18
+Add Class Member: Failed to add class member : Component U101 DC DC_StepDown_LM2596
+Add Class Member: Failed to add class member : Component U102 DC DC_StepDown_LM2596
+Added Member To Class: ClassName=CAR PCB Member=Component U103 PCF8574T/3,518
+Added Member To Class: ClassName=CAR PCB Member=Component U104 PCF8574T/3,518
+Add Class Member: Failed to add class member : Component U201 ~
+Add Class Member: Failed to add class member : Component U202 74AHCT1G04DBVR
+Add Class Member: Failed to add class member : Component U203 ~
+Add Class Member: Failed to add class member : Component U301 BlackPill_Part_Like_SWD_Breakout
+Add Class Member: Failed to add class member : Component U601 MCP2515-xSO
+Add Class Member: Failed to add class member : Component U602 TJA1051T
+Added Member To Class: ClassName=CAN_Module Member=Component Y601 X49SM8MSD2SC

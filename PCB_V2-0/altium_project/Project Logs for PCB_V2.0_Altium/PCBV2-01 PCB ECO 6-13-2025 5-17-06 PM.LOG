@@ -1,0 +1,321 @@
+Add component: Footprint Not Found 
+Add component: Footprint Not Found SMA_Amphenol_132134-11_Vertical
+Add component: Footprint Not Found C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+Add component: Footprint Not Found C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+Add component: Footprint Not Found C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+Add component: Footprint Not Found C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+Add component: Footprint Not Found C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+Add component: Footprint Not Found C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+Add component: Footprint Not Found C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+Add component: Footprint Not Found LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Add component: Footprint Not Found LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Add component: Footprint Not Found LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Add component: Footprint Not Found LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Add component: Footprint Not Found LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Add component: Footprint Not Found CONN_1924389_PXC
+Add component: Footprint Not Found TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal
+Add component: Footprint Not Found TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal
+Add component: Footprint Not Found CONN8_796867-8_TEC
+Add component: Footprint Not Found JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical
+Add component: Footprint Not Found JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical
+Add component: Footprint Not Found E32-433T33D
+Add component: Footprint Not Found JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical
+Add component: Footprint Not Found CON20_2X10_SHM_TEC
+Add component: Footprint Not Found R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+Add component: Footprint Not Found LED_QTLP600C_EVE
+Add component: Footprint Not Found LED_QTLP600C_EVE
+Add component: Footprint Not Found LED_QTLP600C_EVE
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Added Component: Designator=R1(RESC1608X55X25NL10T15)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4, 02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "332 kohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type (Resistor)"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8 mm"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1608X55X25NL10T15)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4, 02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "332 kohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type (Resistor)"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8 mm"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1608X55X25NL10T15)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4, 02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "332 kohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type (Resistor)"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8 mm"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1608X55X25NL10T15)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4, 02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "332 kohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type (Resistor)"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8 mm"; VariantName = "[No Variations]"
+Add component: Footprint Not Found RES_CRGCQ0402F100K_TEC
+Add component: Footprint Not Found RES_CRGCQ0402F100K_TEC
+Add component: Footprint Not Found RES_CRGCQ0402F100K_TEC
+Added Component: Designator=R8(RESC1608X55X25NL10T15)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4, 02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "332 kohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type (Resistor)"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8 mm"; VariantName = "[No Variations]"
+Add component: Footprint Not Found R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+Add component: Footprint Not Found R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+Add component: Footprint Not Found R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+Add component: Footprint Not Found R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+Add component: Footprint Not Found R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+Add component: Footprint Not Found R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+Add component: Footprint Not Found R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+Add component: Footprint Not Found R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+Add component: Footprint Not Found R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+Add component: Footprint Not Found R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+Add component: Footprint Not Found R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+Add component: Footprint Not Found R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+Add component: Footprint Not Found R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+Add component: Footprint Not Found R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+Add component: Footprint Not Found R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+Add component: Footprint Not Found R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+Add component: Footprint Not Found JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical
+Add component: Footprint Not Found DW18
+Add component: Footprint Not Found DCDC_StepDown_LM2596
+Add component: Footprint Not Found DCDC_StepDown_LM2596
+Add component: Footprint Not Found SOIC-16W_7.5x10.3mm_P1.27mm
+Add component: Footprint Not Found SOIC-16W_7.5x10.3mm_P1.27mm
+Add component: Footprint Not Found SA868
+Add component: Footprint Not Found SOT-23-5
+Add component: Footprint Not Found Blackpill STM32F401CCU6
+Add component: Footprint Not Found SOIC-18W_7.5x11.6mm_P1.27mm
+Add component: Footprint Not Found SOIC-8_3.9x4.9mm_P1.27mm
+Added Net: Name=+3.3V
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12V Pin=R1-2
+Added Pin To Net: NetName=+12V Pin=R2-2
+Added Pin To Net: NetName=+12V Pin=R3-2
+Added Pin To Net: NetName=+12V Pin=R4-2
+Added Pin To Net: NetName=+12V Pin=R8-2
+Added Net: Name=+12V
+Added Net: Name=ANTENNA_LINE
+Added Net: Name=AUX
+Added Net: Name=CS
+Added Net: Name=GNDA
+Added Net: Name=GNDD
+Added Net: Name=GND
+Added Net: Name=GPIO_LORA_1
+Added Net: Name=GPIO_LORA_2
+Added Net: Name=HEADPHONE +
+Added Net: Name=HEADPHONE -
+Added Net: Name=I2C_SCL_1
+Added Net: Name=I2C_SDA_1
+Added Net: Name=IN1
+Added Net: Name=IN2
+Added Net: Name=IN3
+Added Net: Name=IN4
+Added Net: Name=IN5
+Added Net: Name=IN6
+Added Net: Name=IN7
+Added Net: Name=IN8
+Added Net: Name=INT
+Added Net: Name=MIC+
+Added Net: Name=MISO
+Added Net: Name=MOSI
+Added Net: Name=Net*_1
+Added Net: Name=Net*_2
+Added Net: Name=Net*_3
+Added Net: Name=Net*_4
+Added Net: Name=Net*_5
+Added Net: Name=NetC201_1
+Added Net: Name=NetC201_2
+Added Net: Name=NetC601_2
+Added Net: Name=NetC602_2
+Added Net: Name=NetD101_2
+Added Net: Name=NetD102_2
+Added Net: Name=NetD103_1
+Added Net: Name=NetD103_2
+Added Net: Name=NetD104_1
+Added Net: Name=NetD104_2
+Added Net: Name=NetD105_1
+Added Net: Name=NetD105_2
+Added Net: Name=NetJ1_1
+Added Net: Name=NetJ1_3
+Added Net: Name=NetJ1_5
+Added Net: Name=NetJ1_7
+Added Net: Name=NetJ1_9
+Added Net: Name=NetJ103_1
+Added Net: Name=NetJ103_2
+Added Net: Name=NetJ103_3
+Added Net: Name=NetJ103_4
+Added Net: Name=NetJ103_5
+Added Net: Name=NetJ103_6
+Added Net: Name=NetJ103_7
+Added Net: Name=NetJ103_8
+Added Net: Name=NetJ202_1
+Added Net: Name=NetJ202_2
+Added Net: Name=NetJ602_1
+Added Net: Name=NetJ602_2
+Added Net: Name=NetJ603_1
+Added Net: Name=NetJP101_2
+Added Net: Name=NetJP102_2
+Added Net: Name=NetJP103_2
+Added Net: Name=NetJP104_2
+Added Net: Name=NetJP105_2
+Added Net: Name=NetJP106_2
+Added Net: Name=NetJP201_1
+Added Net: Name=NetLED1_1
+Added Net: Name=NetLED1_2
+Added Net: Name=NetLED2_1
+Added Net: Name=NetLED2_2
+Added Net: Name=NetLED3_1
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ3_1 Pin=R2-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ5_1 Pin=R3-1
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ7_1 Pin=R4-1
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ9_1 Pin=R8-1
+Added Net: Name=NetQ9_1
+Added Net: Name=NetR602_1
+Added Net: Name=NetU201_1
+Added Net: Name=NetU202_4
+Added Net: Name=NetU601_1
+Added Net: Name=NetU601_2
+Added Net: Name=PA0
+Added Net: Name=PA1
+Added Net: Name=PA8
+Added Net: Name=PA15
+Added Net: Name=PB0
+Added Net: Name=PB1
+Added Net: Name=PB2
+Added Net: Name=PB3
+Added Net: Name=PB4
+Added Net: Name=PB5
+Added Net: Name=PB8
+Added Net: Name=PB9
+Added Net: Name=PB10
+Added Net: Name=PB12
+Added Net: Name=PB13
+Added Net: Name=PC13
+Added Net: Name=PC14
+Added Net: Name=PC15
+Added Net: Name=RST
+Added Net: Name=SCK
+Added Net: Name=UART1_RX
+Added Net: Name=UART1_TX
+Added Net: Name=UART2_RX
+Added Net: Name=UART2_TX
+Added Net: Name=UART6_RX
+Added Net: Name=UART6_TX
+Added Class: Name=CAN_Module
+Added Class: Name=CAR PCB
+Added Class: Name=Display
+Added Class: Name=LORA
+Added Class: Name=Microcontroller
+Added Class: Name=RF Voice
+Added Class: Name=U_ULN2803+MOSFETS
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
