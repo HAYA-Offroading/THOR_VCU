@@ -85,8 +85,8 @@ DocumentUniqueId=
 
 [Document3]
 DocumentPath=RF Sheet.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotationEnabled=0
+AnnotateStartValue=201
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -137,8 +137,8 @@ DocumentUniqueId=
 [Document6]
 DocumentPath=Microcontroller.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=301
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=1
@@ -187,8 +187,8 @@ DocumentUniqueId=
 
 [Document9]
 DocumentPath=LORA.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotationEnabled=0
+AnnotateStartValue=401
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -238,8 +238,8 @@ DocumentUniqueId=
 
 [Document12]
 DocumentPath=ULN2803+MOSFETS.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotationEnabled=0
+AnnotateStartValue=701
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -255,8 +255,8 @@ DocumentUniqueId=BOEXHAUX
 
 [Document13]
 DocumentPath=CAR PCB.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotationEnabled=0
+AnnotateStartValue=101
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -272,8 +272,8 @@ DocumentUniqueId=FDDACEMV
 
 [Document14]
 DocumentPath=Display.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotationEnabled=0
+AnnotateStartValue=501
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -289,8 +289,8 @@ DocumentUniqueId=URCNNAQT
 
 [Document15]
 DocumentPath=CAN_Module.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotationEnabled=0
+AnnotateStartValue=601
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -727,7 +727,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FICKBLJM
 
 [Document41]
 DocumentPath=..\Parts and Footprints\Imported from KiCad\kicad-footprints-master-Capacitor_SMD\Imported C_0201_0603Metric\Capacitor_SMD.PcbLib
@@ -744,7 +744,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EMVTHOMN
 
 [Document42]
 DocumentPath=..\Parts and Footprints\ul_HC49-US-10-244MHZ-16PF-30-EXT-SMD-H32-TR\AltiumDesigner\HC49US-10P244MHZ-16PF-30-EXT-SMD-H32-TR.PcbLib
@@ -761,10 +761,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TPJDBPTS
 
 [Document43]
-DocumentPath=..\ul_HC49-US-10-244MHZ-16PF-30-EXT-SMD-H32-TR\AltiumDesigner\HC49US-10P244MHZ-16PF-30-EXT-SMD-H32-TR.SchLib
+DocumentPath=..\Parts and Footprints\ul_HC49-US-10-244MHZ-16PF-30-EXT-SMD-H32-TR\AltiumDesigner\HC49US-10P244MHZ-16PF-30-EXT-SMD-H32-TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -778,10 +778,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FQVCQFXS
 
 [Document44]
-DocumentPath=..\kicad-footprints-8.0.9-Connector_PinHeader_2.54mm.pretty\Imported Connector_Generic\Connector_Generic.SchLib
+DocumentPath=..\Parts and Footprints\Imported from KiCad\kicad-footprints-8.0.9-Connector_PinHeader_2.54mm\Imported Connector_Generic\Connector_Generic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -795,7 +795,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BGJHXAMY
 
 [Document45]
 DocumentPath=..\Parts and Footprints\Imported from KiCad\kicad-footprints-8.0.9-Connector_PinHeader_2.54mm\Imported Connector_Generic\Connector_PinHeader_2.54mm.PcbLib
@@ -812,7 +812,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OVEEKOUF
 
 [Document46]
 DocumentPath=..\Parts and Footprints\Imported from KiCad\kicad-footprints-v8-TerminalBlock\Imported TerminalBlock_Altech_AK300-2_P5.00mm\TerminalBlock.PcbLib
@@ -829,10 +829,146 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MFPKDPRF
 
 [Document47]
-DocumentPath=..\Parts and Footprints\Imported from KiCad\kicad-footprints-v8-LED_SMD.pretty\Imported LED_1W_3W_R8\LED_SMD.PcbLib
+DocumentPath=..\Parts and Footprints\Imported from KiCad\kicad-footprints-v8-LED_SMD\Imported LED_1W_3W_R8\LED_SMD.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QVEUCUKU
+
+[Document48]
+DocumentPath=..\Parts and Footprints\ul_5499922-4\AltiumDesigner\5499922-4.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SILCUYFG
+
+[Document49]
+DocumentPath=..\Parts and Footprints\ul_5499922-4\AltiumDesigner\5499922-4.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PPUHYPDD
+
+[Document50]
+DocumentPath=..\Parts and Footprints\ul_796867-8\AltiumDesigner\796867-8.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KJCUDOQS
+
+[Document51]
+DocumentPath=..\Parts and Footprints\ul_796867-8\AltiumDesigner\796867-8.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UHNIWGPZ
+
+[Document52]
+DocumentPath=..\Parts and Footprints\SI2309DS\SI2309DS.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HBXNHHJN
+
+[Document53]
+DocumentPath=..\Parts and Footprints\SI2309DS\SI2309DS.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LZNWGRRP
+
+[Document54]
+DocumentPath=..\Parts and Footprints\Imported from KiCad\kicad-footprints-v8-TerminalBlock_Phoenix\Imported TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal\TerminalBlock_Phoenix.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EVNPOGBS
+
+[Document55]
+DocumentPath=..\Parts and Footprints\MCP2515\MCP2515.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -847,6 +983,316 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document56]
+DocumentPath=..\Parts and Footprints\MCP2515\MCP2515.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PHQVAEEP
+
+[Document57]
+DocumentPath=..\Parts and Footprints\TJA1051T\TJA1051T.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document58]
+DocumentPath=..\Parts and Footprints\TJA1051T\TJA1051T.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JRHSXGIV
+
+[Document59]
+DocumentPath=..\Parts and Footprints\Imported from KiCad\Imported SA868-fp\SA868.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BRNSTUFR
+
+[Document60]
+DocumentPath=..\Parts and Footprints\Imported from KiCad\Imported SA868-fp\sa868-sym.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FUILYJZX
+
+[Document61]
+DocumentPath=..\Parts and Footprints\ul_132134\AltiumDesigner\132134.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KKDQCSIG
+
+[Document62]
+DocumentPath=..\Parts and Footprints\ul_132134\AltiumDesigner\132134.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NRHSQFBN
+
+[Document63]
+DocumentPath=..\Parts and Footprints\Imported from KiCad\Imported usethis_BlackPill_1\Blackpill.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EDVWJWHO
+
+[Document64]
+DocumentPath=..\Parts and Footprints\Imported from KiCad\Imported usethis_BlackPill_1\usethis_BlackPill_1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BTKKGGVD
+
+[Document65]
+DocumentPath=..\Parts and Footprints\Imported from KiCad\Imported pam8403\PAM8403.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document66]
+DocumentPath=..\Parts and Footprints\Imported from KiCad\Imported pam8403\pam8403.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NCBPLJRJ
+
+[Document67]
+DocumentPath=..\Parts and Footprints\Imported from KiCad\Imported JST_XH_B02B-XH-A_02x2.50mm_Straight\JST-XH.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document68]
+DocumentPath=..\Parts and Footprints\Imported from KiCad\Imported E32-433T33D-EDITEDSIZE\Imported from KiCad.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document69]
+DocumentPath=..\Parts and Footprints\ul_ESP32-S3-WROOM-1-N16R8\AltiumDesigner\ESP32-S3-WROOM-1-N16R8.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document70]
+DocumentPath=..\Parts and Footprints\ul_ESP32-S3-WROOM-1-N16R8\AltiumDesigner\ESP32-S3-WROOM-1-N16R8.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document71]
+DocumentPath=..\Parts and Footprints\DX07S016JA1R1500\DX07S016JA1R1500.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document72]
+DocumentPath=..\Parts and Footprints\ul_B3U-1000P-B\AltiumDesigner\B3U-1000P-B.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AVHLVCJT
+
+[Document73]
+DocumentPath=..\Parts and Footprints\ul_B3U-1000P-B\AltiumDesigner\B3U-1000P-B.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_V2.0_Altium\Design Rule Check - PCBV2-01.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -1803,10 +2249,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Any
+ComponentLibraryIdentifier0=
+ComponentDesignItemID0=SI2309DS
+ComponentSymbolReference0=SI2309DS
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1820,6 +2272,47 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Arrow Part Number
+ParameterUpdate0=1
+ParameterName1=Arrow Price/Stock
+ParameterUpdate1=1
+ParameterName2=Comment
+ParameterUpdate2=1
+ParameterName3=Component Kind
+ParameterUpdate3=1
+ParameterName4=Datasheet Link
+ParameterUpdate4=1
+ParameterName5=Description
+ParameterUpdate5=1
+ParameterName6=Height
+ParameterUpdate6=1
+ParameterName7=Library Reference
+ParameterUpdate7=1
+ParameterName8=Manufacturer Name
+ParameterUpdate8=1
+ParameterName9=Manufacturer Part Number
+ParameterUpdate9=1
+ParameterName10=Manufacturer_Name
+ParameterUpdate10=1
+ParameterName11=Manufacturer_Part_Number
+ParameterUpdate11=1
+ParameterName12=Mouser Part Number
+ParameterUpdate12=1
+ParameterName13=Mouser Price/Stock
+ParameterUpdate13=1
+ParameterName14=Part Number
+ParameterUpdate14=1
+ParameterName15=Part Reference
+ParameterUpdate15=1
+ParameterName16=PCB Footprint
+ParameterUpdate16=1
+ParameterName17=Value
+ParameterUpdate17=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=SOT95P237X112-3N
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
